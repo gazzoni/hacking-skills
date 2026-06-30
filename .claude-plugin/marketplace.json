@@ -1,0 +1,14 @@
+{
+  "name": "indiehacking",
+  "owner": {
+    "name": "Gazzoni",
+    "email": "gazzoni@h4ndslab.com"
+  },
+  "plugins": [
+    {
+      "name": "indiehacking-build",
+      "source": "file:/Users/gazzoni/Documents/Projects/indie-hacking/indiehacking-build",
+      "description": "Fase Build da metodologia indie-hacker (Gate 2)"
+    }
+  ]
+}
