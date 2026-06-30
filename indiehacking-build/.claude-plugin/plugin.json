@@ -1,0 +1,9 @@
+{
+  "name": "indiehacking-build",
+  "version": "0.1.0",
+  "description": "Embala a fase Build da metodologia indie-hacker do Gazzoni: orquestra cérebro Cervellone + Linear H4NDS em commands e skills.",
+  "author": {
+    "name": "Gazzoni",
+    "email": "gazzoni@h4ndslab.com"
+  }
+}
